@@ -20,6 +20,7 @@ You can also specify the amount of experience by passing as a parameter like tha
 
 ## Examples
 
-![Train set predictions visualization](https://github.com/marcos-venicius/salary-prediction-linear-regression/assets/94018427/afca0838-0af5-4de9-b114-d428db6390e3 "Train set predictions visualization")
+![Train set predictions visualization](https://github.com/marcos-venicius/salary-prediction-linear-regression/assets/94018427/45eba5a4-1f68-498a-a50f-ff385f5b2ecd "Train set predictions visualization")
 
-![Test set predictions visualization](https://github.com/marcos-venicius/salary-prediction-linear-regression/assets/94018427/dcd244a6-a972-4260-8614-87644d6e64be "Test set predictions visualization")
+![Test set predictions visualization](https://github.com/marcos-venicius/salary-prediction-linear-regression/assets/94018427/fceb350b-fb6a-4f57-913f-2c302ff5a408 "Test set predictions visualization")
+
