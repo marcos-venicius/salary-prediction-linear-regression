@@ -2,3 +2,4 @@
 .ipynb_checkpoints
 *.ipynb
 simple_linear_regression.py
+__pycache__

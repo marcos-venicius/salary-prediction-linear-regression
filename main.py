@@ -1,19 +1,7 @@
 import pandas as pd
-import matplotlib.pyplot as plt
 from sklearn.model_selection import train_test_split
 from sklearn.linear_model import LinearRegression
-
-
-def plot(name: str, x_values, y_values, predictions):
-    plt.title(name)
-    plt.scatter(x_values, y_values, label='Real', color='green', alpha=0.3)
-    plt.scatter(x_values, predictions, label='Predicted', color='red', alpha=0.3)
-    plt.plot(x_values, predictions, color='blue')
-    plt.xlabel('Experience')
-    plt.ylabel('Salary')
-    plt.legend()
-    plt.show()
-
+from utils import plot
 
 dataset = pd.read_csv('data.csv')
 
