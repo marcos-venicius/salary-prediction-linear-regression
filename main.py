@@ -6,6 +6,9 @@ from sys import argv
 
 dataset = pd.read_csv('data.csv')
 
+# Remove all empty values
+dataset = dataset.dropna()
+
 X = dataset.iloc[:, :-1].values
 y = dataset.iloc[:, -1].values
 
